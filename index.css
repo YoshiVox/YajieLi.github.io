@@ -4,5 +4,11 @@ color: white;
 margin: auto;
 padding-top: 50px;
 padding-bottom: 50px;
-text-align: center;
+}
+
+.section {
+margin: auto;
+padding-top: 25px;
+padding-bottom: 25px;
+text-align:center;
 }
